@@ -1,0 +1,7 @@
+# Ignorer le dossier des modules Node
+node_modules
+
+# Ignorer le dossier de build Vite si tu ne veux pas le push
+
+# Ignorer les fichiers d'environnement
+.env
